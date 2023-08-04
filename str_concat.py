@@ -8,6 +8,9 @@ print(full_name)
 full_name=first_name +" "+ last_name       #with space
 print (full_name)
 
+
+#Adding a string with an integer number
+
 #full_name=first_name+3     #error
 #print(full_name)
 
@@ -19,3 +22,10 @@ print (full_name)
 
 full_name=first_name+" "+str(3)          #no error,with space
 print (full_name)
+
+
+#multiplication of a string
+
+full_name=first_name*3            #without space
+print (full_name)
+
